@@ -11,7 +11,7 @@ Porthole is a Python-based network scanner that:
 ## Requirements
 
 - Python 
-- Windows, macOS, and Linux
+- Windows, macOS or Linux
 
 ---
 
